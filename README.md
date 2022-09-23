@@ -3,7 +3,7 @@ Virtual Internship - Android Application Development Using Kotlin
 
 Made by Kandregula shatvik Lakshman Teja 
 
-Actually I am facing a problem to upload my project files in Github So, I have Uploaded My all project files in drive and provided the video below
+Actually I am facing a problem to upload my project files in Github So, I have Uploaded My all project files in drive and provided the link below
 
 Drive link :- https://drive.google.com/drive/folders/1INVW6KelbxVOefb8IGlANifbTMQRXNFo?usp=sharing
 
