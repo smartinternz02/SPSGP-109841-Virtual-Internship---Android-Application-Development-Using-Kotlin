@@ -2,8 +2,15 @@
 Virtual Internship - Android Application Development Using Kotlin
 
 By Kandregula Shatvik Lakshman Teja
- <h1>Virtual Internship - Android Application Development Using Kotlin
-</h1>
+
+Actually I am facing an issue to upload all my project files to github so, I have uploaded all my project files to Drive and I have provided the link below 
+
+Kindly please consider my project even files are uploaded to Drive 
+
+Project files :- https://drive.google.com/drive/folders/1i9DDDWx4mYZoAJmzo5T1JL1qGIqxlMW_?usp=sharing
+
+ <h2>Virtual Internship - Android Application Development Using Kotlin
+</h2>
 <h2>
 Build A Grocery Android App - Project 2
 </h2>
@@ -16,8 +23,7 @@ As we can't remember everything, users frequently forget to buy the things they 
 <img width="960" alt="Screenshot 2022-09-13 114224" src="https://user-images.githubusercontent.com/83489094/189833241-46a4de49-ec8f-40b9-85e1-d426aa034756.png">
 
 
-<h1>
-<a href="https://drive.google.com/file/d/1-UUreyWh2BHbssqGTKYC3esc0xl43d7B/view">Demo Video</a></h1>
+Demo video :- https://drive.google.com/file/d/1-UUreyWh2BHbssqGTKYC3esc0xl43d7B/view
 
 
 <h2>Output
